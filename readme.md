@@ -1,0 +1,3 @@
+# **Sistem Informasi Klinik Gigi**
+## Deskripsi
+#### Sistem Informasi Klinik Gigi merupakan sebuah aplikasi berbasis bahasa pemrograman C yang dirancang untuk membantu pengelolaan data dan proses administrasi pada sebuah klinik gigi. Sistem ini bertujuan untuk mempermudah pencatatan, penyimpanan, serta pengolahan data pasien, data dokter, dan proses registrasi pemeriksaan pasien secara terstruktur dan terkomputerisasi.
